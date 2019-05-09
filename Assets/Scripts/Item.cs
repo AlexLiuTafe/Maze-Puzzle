@@ -12,4 +12,5 @@ public class Item : MonoBehaviour
         Destroy(gameObject); // Remove item
     }
     
+
 }
